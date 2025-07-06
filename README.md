@@ -4,8 +4,7 @@ I'm a Computer Engineering student at the Instituto Tecnológico de Costa Rica (
 Outside of tech, I love painting and diving into all things nerdy—books, videogames, board games, you name it. Having worked in fast food, call centers, and admin roles, I've learned the value of hard work, adaptability, and staying calm under pressure. I'm deeply grateful for the opportunity to earn a university degree, and I hope to use it one day to create solutions that truly make an impact on people and the world.
 
 <p align="center">
-  <em>"Effort needs no talent."</em><br>
-  <sub>_a simple truth I live by_</sub>
+  <em>"Effort needs no talent."</em>
 </p>
 
 
