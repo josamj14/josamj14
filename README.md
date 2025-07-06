@@ -8,9 +8,9 @@ Having worked in **fast food**, **call centers**, and **admin roles**, I've lear
 
 
 <p align="center">
-  ───────────── ⋆⋅☆⋅⋆ ────────────── <br/>
+  ──────── ⋆⋅☆⋅⋆ ──────── <br/>
   <em>"Effort needs no talent."</em> <br/>
-  ───────────── ⋆⋅☆⋅⋆ ──────────────
+  ──────── ⋆⋅☆⋅⋆ ────────
 </p>
 
 
