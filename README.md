@@ -1,4 +1,5 @@
-<h1>Hey, I'm Josi Marín</h1>
+<h2> 👩‍💻 Hey! </h2>
+<h1> I'm Josi Marín </h1>
 
 I'm a Computer Engineering student at the Instituto Tecnológico de Costa Rica (TEC), soon to graduate. I enjoy all kinds of programming—front-end, back-end, and algorithms—but my main interests are in virtual reality, data science, and project management. I’m passionate about computer science as a way to understand the world, solve complex problems, and build innovative systems that improve lives. I value every opportunity to learn and grow, and I always give my best in everything I do. <br/>
 
