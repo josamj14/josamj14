@@ -17,7 +17,11 @@ Having worked in **fast food**, **call centers**, and **admin roles**, I've lear
 - Or connect with me on [LinkedIn](https://linkedin.com/in/josi-marin-993395327)
 
 
-✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ .   ⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　
+　
+
+<p align="center">
+  ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ .   ⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 
+</p>
 
 
 ### Projects I'm Most Proud Of
