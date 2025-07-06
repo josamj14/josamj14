@@ -7,9 +7,16 @@ Outside of tech, I love **painting** and diving into all things **nerdy**—book
 Having worked in **fast food**, **call centers**, and **admin roles**, I've learned the value of hard work, adaptability, and staying calm under pressure. I'm deeply grateful for the opportunity to earn a university degree, and I hope to use it one day to create solutions that truly make an impact on people and the world.
 
 <p align="center">
+  ───────────── ⋆⋅☆⋅⋆ ──────────────
+</p>
+
+<p align="center">
   <em>"Effort needs no talent."</em>
 </p>
 
+<p align="center">
+  ───────────── ⋆✮⋆ ──────────────
+</p>
 
 ### Contact Info
 
@@ -20,7 +27,7 @@ Having worked in **fast food**, **call centers**, and **admin roles**, I've lear
 　
 
 <p align="center">
-  ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ .   ⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 
+  ───────────── ⋆⋅❀⋅⋆ ──────────────
 </p>
 
 
@@ -68,4 +75,9 @@ Having worked in **fast food**, **call centers**, and **admin roles**, I've lear
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+</p>
+
+
+<p align="center">
+  ───────────── ⋆♡⋆ ──────────────
 </p>
