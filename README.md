@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Josi Marín</h1>
-<h3 align="center">I'm a Computer Engineering student at the Tecnológico de Costa Rica (TEC), soon to graduate. I enjoy all aspects of programming—whether it's front-end, back-end, or algorithm design—but I’m especially passionate about virtual reality, data science, and project management. I love creating innovative, data-driven solutions and exploring how emerging technologies can solve real-world problems. I'm always learning, building, and collaborating on projects that make an impact.</h3>
+<h1>Hey, I'm Josi Marín</h1>
+I'm a Computer Engineering student at the Tecnológico de Costa Rica (TEC), soon to graduate. I enjoy all aspects of programming—whether it's front-end, back-end, or algorithm design—but I’m especially passionate about virtual reality, data science, and project management. I love creating innovative, data-driven solutions and exploring how emerging technologies can solve real-world problems. I'm always learning, building, and collaborating on projects that make an impact.
 
 - 📫 How to reach me **marinjosi004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/josi marin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josi marin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josi-marin-993395327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josi marin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
