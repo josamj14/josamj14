@@ -1,7 +1,8 @@
 <h1>Hey, I'm Josi Marín</h1>
-I'm a Computer Engineering student at the Instituto Tecnológico de Costa Rica (TEC), soon to graduate. I enjoy all kinds of programming—front-end, back-end, and algorithms—but my main interests are in virtual reality, data science, and project management. I’m passionate about computer science as a way to understand the world, solve complex problems, and build innovative systems that improve lives. I value every opportunity to learn and grow, and I always give my best in everything I do.
 
-Outside of tech, I love painting and diving into all things nerdy—books, videogames, board games, you name it. Having worked in fast food, call centers, and admin roles, I've learned the value of hard work, adaptability, and staying calm under pressure. I'm deeply grateful for the opportunity to earn a university degree, and I hope to use it one day to create solutions that truly make an impact on people and the world.
+I'm a Computer Engineering student at the Instituto Tecnológico de Costa Rica (TEC), soon to graduate. I enjoy all kinds of programming—front-end, back-end, and algorithms—but my main interests are in virtual reality, data science, and project management. I’m passionate about computer science as a way to understand the world, solve complex problems, and build innovative systems that improve lives. I value every opportunity to learn and grow, and I always give my best in everything I do. <br/>
+
+Outside of tech, I love painting and diving into all things nerdy—books, videogames, board games, you name it. Having worked in fast food, call centers, and admin roles, I've learned the value of hard work, adaptability, and staying calm under pressure. I'm deeply grateful for the opportunity to earn a university degree, and I hope to use it one day to create solutions that truly make an impact on people and the world.<br/>
 
 <p align="center">
   <em>"Effort needs no talent."</em>
@@ -11,11 +12,7 @@ Outside of tech, I love painting and diving into all things nerdy—books, video
 ### Contact Info
 
 - You can reach me at **marinjosi004@gmail.com**
-- Connect with me on  
-  <a href="https://linkedin.com/in/josi-marin-993395327" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josi marin" height="20" width="20" />
-    LinkedIn
-  </a>
+- Connect with me on [LinkedIn](https://linkedin.com/in/josi-marin-993395327)
 
 
 ### Projects I'm Most Proud Of
