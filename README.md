@@ -8,15 +8,22 @@ Outside of tech, I love painting and diving into all things nerdy—books, video
 </p>
 
 
-<h3 align="left">Contact info:</h3>
-- You can reach me at **marinjosi004@gmail.com**
-- Also connect with me through
-<a href="https://linkedin.com/in/josi-marin-993395327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josi marin" height="15" width="10" /></a>
+### Contact Info
 
-<h3 align="left">Projects I'm most proud of:</h3>
-- [Mario Party](https://github.com/josamj14/MarioParty)
-- [Big Docker System] (https://github.com/josamj14/Proyecto-1)
-- [Convolutional Networks] (https://colab.research.google.com/drive/1t4tKzTmBHp5FXuCiuRuaGF_1Jmw-WuKf?usp=sharing)
+- You can reach me at **marinjosi004@gmail.com**
+- Connect with me on  
+  <a href="https://linkedin.com/in/josi-marin-993395327" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josi marin" height="20" width="20" />
+    LinkedIn
+  </a>
+
+
+### Projects I'm Most Proud Of
+
+- [🎲 Mario Party](https://github.com/josamj14/MarioParty)
+- [🐳 Big Docker System](https://github.com/josamj14/Proyecto-1)
+- [🧠 Convolutional Networks (Colab)](https://colab.research.google.com/drive/1t4tKzTmBHp5FXuCiuRuaGF_1Jmw-WuKf?usp=sharing)
+
 
 <h3 align="left">My true faves:</h3>
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
