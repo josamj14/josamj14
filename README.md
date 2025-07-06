@@ -16,7 +16,9 @@ Having worked in **fast food**, **call centers**, and **admin roles**, I've lear
 - You can reach me at **marinjosi004@gmail.com**  
 - Or connect with me on [LinkedIn](https://linkedin.com/in/josi-marin-993395327)
 
-⭐ ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨ ⭐
+
+✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ .   ⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　
+
 
 ### Projects I'm Most Proud Of
 
